@@ -8,4 +8,5 @@ public class User {
     String s = "v1.0";
     int num = 10;
     int a=1;
+    int b=2;
 }
