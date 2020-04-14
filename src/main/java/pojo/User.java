@@ -6,4 +6,5 @@ package pojo;
  */
 public class User {
     String s = "v1.0";
+    int num = 10;
 }
